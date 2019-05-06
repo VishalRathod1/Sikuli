@@ -35,6 +35,7 @@ public class FacebookDemo {
 		sc.click(login);
 		
 		System.out.println("added to github");
+		System.out.println("added to ECLIPSE");
 
 	}
 
