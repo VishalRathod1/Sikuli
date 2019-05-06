@@ -33,6 +33,8 @@ public class FacebookDemo {
 		sc.type(password, "Vishu@Rajput");
 		Thread.sleep(10000);
 		sc.click(login);
+		
+		System.out.println("added to github");
 
 	}
 
